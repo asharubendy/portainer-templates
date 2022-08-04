@@ -17754,7 +17754,8 @@
           "bind": "/portainer/Files/AppData/Config/DelugeOpenVPN/config",
           "container": "/config"
         }
-      ]
+      ],
+      "privileged": true
     },
     {
       "categories": [
